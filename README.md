@@ -12,3 +12,4 @@ Abaixo uma lista com os módulos populares e úteis para Magento.
 
 - ### [Módulos de Entrega](/SHIPPING_MODULES.md)
 - ### [Módulos de Pagamento](/PAYMENT_MODULES.md)
+- ### [Módulos de Debug](/DEBUG_MODULES.md)
