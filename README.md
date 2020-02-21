@@ -14,3 +14,4 @@ Abaixo uma lista com os módulos populares e úteis para Magento.
 - ### [Módulos de Pagamento](/docs/PAYMENT_MODULES.md)
 - ### [Módulos de Debug](/docs/DEBUG_MODULES.md)
 - ### [Módulos de Checkout](/docs/CHECKOUT_MODULES.md)
+- ### [Módulos Administrativos](/docs/ADMIN_MODULES.md)
