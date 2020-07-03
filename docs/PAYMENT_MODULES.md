@@ -9,16 +9,17 @@ A ZPay é uma das únicas empresas brasileiras que permitem que as lojas aceitem
 ## Cielo
 
 [Módulo para Magento 2](https://github.com/az2009/cielo-m2)
-- ** Compatibilidade: >= 2.2.x
+- **Compatibilidade**: >= 2.2.x
 
 ## Rede
 
 [Módulo para Magento 2](https://github.com/az2009/rede-m2)
-- ** Compatibilidade: >= 2.2.x
+- **Compatibilidade**: >= 2.2.x
 
 ## Ame Digital
 [Módulo para Magento 2](https://github.com/gumnet/magento-2-ame-digital-integration)
-- ** Compatibilidade: >= 2.2.x
+- **Compatibilidade**: >= 2.2.x (branch dev-magento22)
+- **Compatibilidade**: >= 2.3.x
 
 [Módulo para Magento 1](https://github.com/gumnet/magento-1-ame-digital-integration)
-- ** Compatibilidade: ?
+- **Compatibilidade**: ?
