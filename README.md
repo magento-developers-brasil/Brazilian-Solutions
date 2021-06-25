@@ -16,3 +16,4 @@ Abaixo uma lista com os módulos populares e úteis para Magento.
 - ### [Módulos de Checkout](/docs/CHECKOUT_MODULES.md)
 - ### [Módulos Administrativos](/docs/ADMIN_MODULES.md)
 - ### [Módulos de Clientes](/docs/CUSTOMER_MODULES.md)
+- ### [Módulos de Vendas](/docs/SALES_MODULES.md)
